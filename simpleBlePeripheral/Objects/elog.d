@@ -1,0 +1,9 @@
+.\objects\elog.o: ..\tuya_ble_sdk_demo\components\external\easylogger\src\elog.c
+.\objects\elog.o: ..\tuya_ble_sdk_demo\components\external\easylogger\inc\elog.h
+.\objects\elog.o: ..\tuya_ble_sdk_demo\components\external\easylogger\inc\elog_cfg.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\elog.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,14 @@
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\sdk\src\tuya_ble_mutli_tsf_protocol.c
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\port\tuya_ble_stdlib.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\sdk\include\tuya_ble_type.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\sdk\include\tuya_ble_mem.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\sdk\include\tuya_ble_mutli_tsf_protocol.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\tuya_ble_sdk\tuya_ble_config.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\board\phy62xx\tuya_ble_port\custom_tuya_ble_config.h
+.\objects\tuya_ble_mutli_tsf_protocol.o: ..\tuya_ble_sdk_demo\app\tuya_ble_sdk_demo.h
